@@ -425,3 +425,8 @@ h1,
 p {
     color: white;
 }
+
+.right {
+    float: right;
+    color: white;
+}
