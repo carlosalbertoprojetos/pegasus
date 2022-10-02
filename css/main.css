@@ -468,6 +468,7 @@ p {
 #bandeira {
     max-width: 50px;
     max-height: 37px;
+    margin: auto;
     width: auto;
     height: auto;
 }
